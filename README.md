@@ -34,7 +34,13 @@
 
 - ⚡ Fun fact? **I am Refa! ;)**
 
-### :hammer_and_wrench: Languages and Tools :
+    </p><br>
+  <p><img src="https://img.shields.io/badge/Chief%20Editorial%2FEditor-CodeHolic's%20Point-red" /></p>
+  <img width="45%" height="" src=https://www.web24zone.com/wp-content/uploads/2022/09/2c778e_89d09c380b7b4a09bcdbcb329c4734b3_mv2.gif" alt="">
+
+    <!-- My Social Handles -->
+
+  ### :hammer_and_wrench: Languages and Tools :
 <div align="center">
   <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg"title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
@@ -49,12 +55,6 @@
 </div>
 
 ---
-
-    </p><br>
-  <p><img src="https://img.shields.io/badge/Chief%20Editorial%2FEditor-CodeHolic's%20Point-red" /></p>
-  <img width="45%" height="" src=https://www.web24zone.com/wp-content/uploads/2022/09/2c778e_89d09c380b7b4a09bcdbcb329c4734b3_mv2.gif" alt="">
-
-    <!-- My Social Handles -->
 
 
 

@@ -37,7 +37,7 @@
 - ### :hammer_and_wrench: Languages and Tools :
 <div align="center">
   <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg"title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg"title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://upload.vectorlogo.zone/logos/getbootstrap/images/987f8f6c-263a-47b1-a85d-853cfca215d9.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;

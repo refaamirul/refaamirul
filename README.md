@@ -34,7 +34,7 @@
 
 - ⚡ Fun fact? **I am Refa! ;)**
 
-- ### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Languages and Tools :
 <div align="center">
   <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg"title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
